@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: |cffFF8000Grimfall|rDetails
+## Notes: Next-Gen Classless Damage, Healing & Rune Meter for Grimfall WoW (3.3.5a)
+## Author: DeepMind & Cuex
+## Version: 1.0.0
+## SavedVariables: GrimfallDetailsDB
+
+Constants.lua
+RuneDatabase.lua
+CombatEngine.lua
+UI_MainFrame.lua
+UI_SpellBreakdown.lua
+GrimfallDetails.lua
